@@ -8,6 +8,3 @@ def removechar(str, n):
 
 print("removing charactr of string ")
 print(removechar("krishnapal", 4))
-
-
-
